@@ -7,8 +7,9 @@
 ## Render 배포 순서
 
 1. GitHub에 이 프로젝트를 올립니다.
-2. Render에서 New > Blueprint를 선택합니다.
-3. GitHub 저장소를 연결합니다.
+2. 아래 Render 배포 링크를 엽니다.
+   - https://render.com/deploy?repo=https://github.com/wxxwls/harutoktok-agent
+3. Render 화면에서 Blueprint 내용을 확인하고 승인합니다.
 4. `render.yaml`을 감지하면 `harutoktok-agent` 서비스를 생성합니다.
 5. 배포가 끝나면 Render가 제공하는 공개 URL로 접속합니다.
 
