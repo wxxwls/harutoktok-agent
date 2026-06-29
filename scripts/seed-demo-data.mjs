@@ -151,13 +151,13 @@ const data = {
     event(2, "2026-06-29", "10:00", "12:00", "캡스톤 회의", {
       category: "프로젝트",
       location: "공학관 305호",
-      attendees: ["민수", "지연"],
+      attendees: ["우진", "지연"],
       isImportant: true,
       isCompleted: true,
       memo: "시연 흐름과 발표 역할을 확정했다.",
-      recordingTranscript: "민수는 캘린더 화면과 일정 상세 모달 UI를 담당하고, 지연은 AI 요약 API 연결을 맡기로 했다. 다음 회의 전까지 각자 맡은 부분의 1차 화면 또는 기능 흐름을 준비하기로 했다.",
+      recordingTranscript: "우진은 캘린더 화면과 일정 상세 모달 UI를 담당하고, 지연은 AI 요약 API 연결을 맡기로 했다. 다음 회의 전까지 각자 맡은 부분의 1차 화면 또는 기능 흐름을 준비하기로 했다.",
       aiSummary:
-        "핵심 요약: 캡스톤 서비스 시연 흐름과 역할을 확정했습니다.\n후속 확인: 민수는 캘린더 화면과 일정 상세 모달 UI를, 지연은 AI 요약 API 연결을 준비하기로 했습니다.\n기록 기준: 6월 29일 오전 10:00 ~ 오후 12:00"
+        "핵심 요약: 캡스톤 서비스 시연 흐름과 역할을 확정했습니다.\n후속 확인: 우진은 캘린더 화면과 일정 상세 모달 UI를, 지연은 AI 요약 API 연결을 준비하기로 했습니다.\n기록 기준: 6월 29일 오전 10:00 ~ 오후 12:00"
     }),
     event(3, "2026-06-29", "13:00", "14:00", "BBC 6 Minute English", { category: "공부", isCompleted: true }),
     event(4, "2026-06-29", "15:00", "16:00", "러닝 5km", { category: "운동", location: "한강공원", isCompleted: true }),
@@ -167,7 +167,7 @@ const data = {
     event(7, "2026-06-30", "07:00", "08:00", "매일 영어공부", { category: "반복 루틴", isCompleted: false }),
     event(8, "2026-06-30", "09:30", "10:30", "포트폴리오 리서치", { category: "자기개발", isCompleted: false }),
     event(9, "2026-06-30", "11:00", "12:00", "교수님 피드백 정리", { category: "프로젝트", isImportant: true, isCompleted: false }),
-    event(10, "2026-06-30", "13:30", "14:20", "팀 피드백 반영 회의", { category: "회의", location: "온라인", attendees: ["민수", "지연"], isCompleted: false }),
+    event(10, "2026-06-30", "13:30", "14:20", "팀 피드백 반영 회의", { category: "회의", location: "온라인", attendees: ["우진", "지연"], isCompleted: false }),
     event(11, "2026-06-30", "15:00", "16:00", "운동", { category: "운동", location: "학교 체육관", isCompleted: false }),
     event(12, "2026-06-30", "17:00", "18:00", "BBC 쉐도잉", { category: "공부", isCompleted: false }),
 
@@ -264,7 +264,7 @@ const data = {
     {
       meetingNoteId: id("meet", 1),
       title: "캡스톤 회의",
-      transcript: "민수는 캘린더 화면을 담당하고 지연은 AI 요약 API를 연결하기로 했다. 금요일 전까지 발표 리허설 자료를 완성하기로 했다.",
+      transcript: "우진은 캘린더 화면을 담당하고 지연은 AI 요약 API를 연결하기로 했다. 금요일 전까지 발표 리허설 자료를 완성하기로 했다.",
       summary: "캘린더 화면과 AI 요약 API 역할을 나누고 발표 리허설 준비 일정을 정했습니다.",
       discussions: ["Agent 상태를 과하게 노출하지 않고 기능 안에서 자연스럽게 보여주기", "데모 데이터로 전체 기능 시연 준비"],
       decisions: ["금요일 발표 리허설 전까지 주요 화면을 완성한다."],
@@ -278,7 +278,7 @@ const data = {
     {
       actionItemId: id("act", 1),
       meetingNoteId: id("meet", 1),
-      assignee: "민수",
+      assignee: "우진",
       task: "캘린더 화면 최종 점검",
       dueAt: iso("2026-07-03", "09:00"),
       status: "open",
@@ -405,7 +405,7 @@ const data = {
   preferences: {
     userId,
     onboardingCompleted: true,
-    nickname: "민수",
+    nickname: "우진",
     birthDate: "2001-03-15",
     birthCalendarType: "solar",
     birthTime: "",

@@ -929,7 +929,7 @@ function extractLocation(text: string) {
 function extractAttendees(text: string) {
   const attendees = text.match(/참석자[:：]\s*([가-힣,\s]+)/);
   if (!attendees) {
-    const names = text.match(/(민수|지훈|교수님|팀원|현수|지민)/g);
+    const names = text.match(/(우진|민수|지훈|교수님|팀원|현수|지민)/g);
     return Array.from(new Set(names ?? []));
   }
   return attendees[1]

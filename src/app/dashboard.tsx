@@ -1426,7 +1426,7 @@ export function Dashboard({ initialState }: { initialState: AppState }) {
                   aria-label="Meeting transcript"
                   value={meetingText}
                   onChange={(event) => setMeetingText(event.target.value)}
-                  placeholder="여기에 회의록 전사 텍스트를 붙여넣거나 직접 작성하세요.&#10;예)&#10;민수: 이번 시연을 준비하기 위해 발표 자료 초안을 금요일까지 완성합시다.&#10;지영: 좋습니다. 슬라이드 템플릿은 제가 잡아둘 테니 텍스트 정리해서 보내주세요."
+                  placeholder="여기에 회의록 전사 텍스트를 붙여넣거나 직접 작성하세요.&#10;예)&#10;우진: 이번 시연을 준비하기 위해 발표 자료 초안을 금요일까지 완성합시다.&#10;지영: 좋습니다. 슬라이드 템플릿은 제가 잡아둘 테니 텍스트 정리해서 보내주세요."
                 />
 
                 <div className="create-note-view-buttons">

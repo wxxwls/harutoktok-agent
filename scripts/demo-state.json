@@ -23,7 +23,7 @@
       "category": "프로젝트",
       "location": "공학관 305호",
       "attendees": [
-        "민수",
+        "우진",
         "지연"
       ],
       "isImportant": true,
@@ -31,8 +31,8 @@
       "completedAt": "2026-06-29T03:00:00.000Z",
       "description": "데모 시연용 일정",
       "memo": "시연 흐름과 발표 역할을 확정했다.",
-      "recordingTranscript": "민수는 캘린더 화면과 일정 상세 모달 UI를 담당하고, 지연은 AI 요약 API 연결을 맡기로 했다. 다음 회의 전까지 각자 맡은 부분의 1차 화면 또는 기능 흐름을 준비하기로 했다.",
-      "aiSummary": "핵심 요약: 캡스톤 서비스 시연 흐름과 역할을 확정했습니다.\n후속 확인: 민수는 캘린더 화면과 일정 상세 모달 UI를, 지연은 AI 요약 API 연결을 준비하기로 했습니다.\n기록 기준: 6월 29일 오전 10:00 ~ 오후 12:00",
+      "recordingTranscript": "우진은 캘린더 화면과 일정 상세 모달 UI를 담당하고, 지연은 AI 요약 API 연결을 맡기로 했다. 다음 회의 전까지 각자 맡은 부분의 1차 화면 또는 기능 흐름을 준비하기로 했다.",
+      "aiSummary": "핵심 요약: 캡스톤 서비스 시연 흐름과 역할을 확정했습니다.\n후속 확인: 우진은 캘린더 화면과 일정 상세 모달 UI를, 지연은 AI 요약 API 연결을 준비하기로 했습니다.\n기록 기준: 6월 29일 오전 10:00 ~ 오후 12:00",
       "source": "chat",
       "createdAt": "2026-06-29T13:30:00.000Z",
       "updatedAt": "2026-06-29T13:30:00.000Z"
@@ -147,7 +147,7 @@
       "category": "회의",
       "location": "온라인",
       "attendees": [
-        "민수",
+        "우진",
         "지연"
       ],
       "isImportant": false,
@@ -637,7 +637,7 @@
     {
       "meetingNoteId": "meet_demo_01",
       "title": "캡스톤 회의",
-      "transcript": "민수는 캘린더 화면을 담당하고 지연은 AI 요약 API를 연결하기로 했다. 금요일 전까지 발표 리허설 자료를 완성하기로 했다.",
+      "transcript": "우진은 캘린더 화면을 담당하고 지연은 AI 요약 API를 연결하기로 했다. 금요일 전까지 발표 리허설 자료를 완성하기로 했다.",
       "summary": "캘린더 화면과 AI 요약 API 역할을 나누고 발표 리허설 준비 일정을 정했습니다.",
       "discussions": [
         "Agent 상태를 과하게 노출하지 않고 기능 안에서 자연스럽게 보여주기",
@@ -658,7 +658,7 @@
     {
       "actionItemId": "act_demo_01",
       "meetingNoteId": "meet_demo_01",
-      "assignee": "민수",
+      "assignee": "우진",
       "task": "캘린더 화면 최종 점검",
       "dueAt": "2026-07-03T00:00:00.000Z",
       "status": "open",
@@ -1354,7 +1354,7 @@
   "preferences": {
     "userId": "local-user",
     "onboardingCompleted": true,
-    "nickname": "민수",
+    "nickname": "우진",
     "birthDate": "2001-03-15",
     "birthCalendarType": "solar",
     "birthTime": "",
