@@ -1,0 +1,1398 @@
+{
+  "events": [
+    {
+      "eventId": "evt_demo_01",
+      "title": "Grammar in Use",
+      "startAt": "2026-06-28T22:00:00.000Z",
+      "endAt": "2026-06-28T23:00:00.000Z",
+      "category": "공부",
+      "attendees": [],
+      "isImportant": false,
+      "isCompleted": true,
+      "completedAt": "2026-06-28T23:00:00.000Z",
+      "description": "데모 시연용 일정",
+      "source": "chat",
+      "createdAt": "2026-06-29T13:30:00.000Z",
+      "updatedAt": "2026-06-29T13:30:00.000Z"
+    },
+    {
+      "eventId": "evt_demo_02",
+      "title": "캡스톤 회의",
+      "startAt": "2026-06-29T01:00:00.000Z",
+      "endAt": "2026-06-29T03:00:00.000Z",
+      "category": "프로젝트",
+      "location": "공학관 305호",
+      "attendees": [
+        "민수",
+        "지연"
+      ],
+      "isImportant": true,
+      "isCompleted": true,
+      "completedAt": "2026-06-29T03:00:00.000Z",
+      "description": "데모 시연용 일정",
+      "memo": "시연 흐름과 발표 역할을 확정했다.",
+      "recordingTranscript": "민수는 캘린더 화면과 일정 상세 모달 UI를 담당하고, 지연은 AI 요약 API 연결을 맡기로 했다. 다음 회의 전까지 각자 맡은 부분의 1차 화면 또는 기능 흐름을 준비하기로 했다.",
+      "aiSummary": "핵심 요약: 캡스톤 서비스 시연 흐름과 역할을 확정했습니다.\n후속 확인: 민수는 캘린더 화면과 일정 상세 모달 UI를, 지연은 AI 요약 API 연결을 준비하기로 했습니다.\n기록 기준: 6월 29일 오전 10:00 ~ 오후 12:00",
+      "source": "chat",
+      "createdAt": "2026-06-29T13:30:00.000Z",
+      "updatedAt": "2026-06-29T13:30:00.000Z"
+    },
+    {
+      "eventId": "evt_demo_03",
+      "title": "BBC 6 Minute English",
+      "startAt": "2026-06-29T04:00:00.000Z",
+      "endAt": "2026-06-29T05:00:00.000Z",
+      "category": "공부",
+      "attendees": [],
+      "isImportant": false,
+      "isCompleted": true,
+      "completedAt": "2026-06-29T05:00:00.000Z",
+      "description": "데모 시연용 일정",
+      "source": "chat",
+      "createdAt": "2026-06-29T13:30:00.000Z",
+      "updatedAt": "2026-06-29T13:30:00.000Z"
+    },
+    {
+      "eventId": "evt_demo_04",
+      "title": "러닝 5km",
+      "startAt": "2026-06-29T06:00:00.000Z",
+      "endAt": "2026-06-29T07:00:00.000Z",
+      "category": "운동",
+      "location": "한강공원",
+      "attendees": [],
+      "isImportant": false,
+      "isCompleted": true,
+      "completedAt": "2026-06-29T07:00:00.000Z",
+      "description": "데모 시연용 일정",
+      "source": "chat",
+      "createdAt": "2026-06-29T13:30:00.000Z",
+      "updatedAt": "2026-06-29T13:30:00.000Z"
+    },
+    {
+      "eventId": "evt_demo_05",
+      "title": "친구와 저녁 약속",
+      "startAt": "2026-06-29T10:00:00.000Z",
+      "endAt": "2026-06-29T11:30:00.000Z",
+      "category": "약속",
+      "location": "성수",
+      "attendees": [],
+      "isImportant": false,
+      "isCompleted": false,
+      "description": "데모 시연용 일정",
+      "source": "chat",
+      "createdAt": "2026-06-29T13:30:00.000Z",
+      "updatedAt": "2026-06-29T13:30:00.000Z"
+    },
+    {
+      "eventId": "evt_demo_06",
+      "title": "산업안전기사 기출 풀이",
+      "startAt": "2026-06-29T11:45:00.000Z",
+      "endAt": "2026-06-29T12:30:00.000Z",
+      "category": "자격증",
+      "attendees": [],
+      "isImportant": true,
+      "isCompleted": false,
+      "description": "데모 시연용 일정",
+      "source": "chat",
+      "createdAt": "2026-06-29T13:30:00.000Z",
+      "updatedAt": "2026-06-29T13:30:00.000Z"
+    },
+    {
+      "eventId": "evt_demo_07",
+      "title": "매일 영어공부",
+      "startAt": "2026-06-29T22:00:00.000Z",
+      "endAt": "2026-06-29T23:00:00.000Z",
+      "category": "반복 루틴",
+      "attendees": [],
+      "isImportant": false,
+      "isCompleted": false,
+      "description": "데모 시연용 일정",
+      "source": "chat",
+      "createdAt": "2026-06-29T13:30:00.000Z",
+      "updatedAt": "2026-06-29T13:30:00.000Z"
+    },
+    {
+      "eventId": "evt_demo_08",
+      "title": "포트폴리오 리서치",
+      "startAt": "2026-06-30T00:30:00.000Z",
+      "endAt": "2026-06-30T01:30:00.000Z",
+      "category": "자기개발",
+      "attendees": [],
+      "isImportant": false,
+      "isCompleted": false,
+      "description": "데모 시연용 일정",
+      "source": "chat",
+      "createdAt": "2026-06-29T13:30:00.000Z",
+      "updatedAt": "2026-06-29T13:30:00.000Z"
+    },
+    {
+      "eventId": "evt_demo_09",
+      "title": "교수님 피드백 정리",
+      "startAt": "2026-06-30T02:00:00.000Z",
+      "endAt": "2026-06-30T03:00:00.000Z",
+      "category": "프로젝트",
+      "attendees": [],
+      "isImportant": true,
+      "isCompleted": false,
+      "description": "데모 시연용 일정",
+      "source": "chat",
+      "createdAt": "2026-06-29T13:30:00.000Z",
+      "updatedAt": "2026-06-29T13:30:00.000Z"
+    },
+    {
+      "eventId": "evt_demo_10",
+      "title": "팀 피드백 반영 회의",
+      "startAt": "2026-06-30T04:30:00.000Z",
+      "endAt": "2026-06-30T05:20:00.000Z",
+      "category": "회의",
+      "location": "온라인",
+      "attendees": [
+        "민수",
+        "지연"
+      ],
+      "isImportant": false,
+      "isCompleted": false,
+      "description": "데모 시연용 일정",
+      "source": "chat",
+      "createdAt": "2026-06-29T13:30:00.000Z",
+      "updatedAt": "2026-06-29T13:30:00.000Z"
+    },
+    {
+      "eventId": "evt_demo_11",
+      "title": "운동",
+      "startAt": "2026-06-30T06:00:00.000Z",
+      "endAt": "2026-06-30T07:00:00.000Z",
+      "category": "운동",
+      "location": "학교 체육관",
+      "attendees": [],
+      "isImportant": false,
+      "isCompleted": false,
+      "description": "데모 시연용 일정",
+      "source": "chat",
+      "createdAt": "2026-06-29T13:30:00.000Z",
+      "updatedAt": "2026-06-29T13:30:00.000Z"
+    },
+    {
+      "eventId": "evt_demo_12",
+      "title": "BBC 쉐도잉",
+      "startAt": "2026-06-30T08:00:00.000Z",
+      "endAt": "2026-06-30T09:00:00.000Z",
+      "category": "공부",
+      "attendees": [],
+      "isImportant": false,
+      "isCompleted": false,
+      "description": "데모 시연용 일정",
+      "source": "chat",
+      "createdAt": "2026-06-29T13:30:00.000Z",
+      "updatedAt": "2026-06-29T13:30:00.000Z"
+    },
+    {
+      "eventId": "evt_demo_13",
+      "title": "자격증 공식 암기",
+      "startAt": "2026-06-30T23:00:00.000Z",
+      "endAt": "2026-07-01T00:00:00.000Z",
+      "category": "자격증",
+      "attendees": [],
+      "isImportant": false,
+      "isCompleted": false,
+      "description": "데모 시연용 일정",
+      "source": "chat",
+      "createdAt": "2026-06-29T13:30:00.000Z",
+      "updatedAt": "2026-06-29T13:30:00.000Z"
+    },
+    {
+      "eventId": "evt_demo_14",
+      "title": "캡스톤 기능 테스트",
+      "startAt": "2026-07-01T01:00:00.000Z",
+      "endAt": "2026-07-01T03:00:00.000Z",
+      "category": "프로젝트",
+      "location": "랩실",
+      "attendees": [],
+      "isImportant": false,
+      "isCompleted": false,
+      "description": "데모 시연용 일정",
+      "source": "chat",
+      "createdAt": "2026-06-29T13:30:00.000Z",
+      "updatedAt": "2026-06-29T13:30:00.000Z"
+    },
+    {
+      "eventId": "evt_demo_15",
+      "title": "운동",
+      "startAt": "2026-07-01T04:00:00.000Z",
+      "endAt": "2026-07-01T06:00:00.000Z",
+      "category": "운동",
+      "location": "공원",
+      "attendees": [
+        "친구"
+      ],
+      "isImportant": false,
+      "isCompleted": false,
+      "description": "데모 시연용 일정",
+      "source": "chat",
+      "createdAt": "2026-06-29T13:30:00.000Z",
+      "updatedAt": "2026-06-29T13:30:00.000Z"
+    },
+    {
+      "eventId": "evt_demo_16",
+      "title": "AI Agent 발표 스크립트 작성",
+      "startAt": "2026-07-01T07:00:00.000Z",
+      "endAt": "2026-07-01T08:00:00.000Z",
+      "category": "발표",
+      "attendees": [],
+      "isImportant": true,
+      "isCompleted": false,
+      "description": "데모 시연용 일정",
+      "source": "chat",
+      "createdAt": "2026-06-29T13:30:00.000Z",
+      "updatedAt": "2026-06-29T13:30:00.000Z"
+    },
+    {
+      "eventId": "evt_demo_17",
+      "title": "하루 성장보고서 회고",
+      "startAt": "2026-07-01T11:00:00.000Z",
+      "endAt": "2026-07-01T12:00:00.000Z",
+      "category": "회고",
+      "attendees": [],
+      "isImportant": false,
+      "isCompleted": false,
+      "description": "데모 시연용 일정",
+      "source": "chat",
+      "createdAt": "2026-06-29T13:30:00.000Z",
+      "updatedAt": "2026-06-29T13:30:00.000Z"
+    },
+    {
+      "eventId": "evt_demo_18",
+      "title": "Grammar in Use 복습",
+      "startAt": "2026-07-01T22:30:00.000Z",
+      "endAt": "2026-07-01T23:30:00.000Z",
+      "category": "공부",
+      "attendees": [],
+      "isImportant": false,
+      "isCompleted": false,
+      "description": "데모 시연용 일정",
+      "source": "chat",
+      "createdAt": "2026-06-29T13:30:00.000Z",
+      "updatedAt": "2026-06-29T13:30:00.000Z"
+    },
+    {
+      "eventId": "evt_demo_19",
+      "title": "캡스톤 데모 녹화",
+      "startAt": "2026-07-02T00:00:00.000Z",
+      "endAt": "2026-07-02T02:30:00.000Z",
+      "category": "프로젝트",
+      "location": "스튜디오",
+      "attendees": [],
+      "isImportant": true,
+      "isCompleted": false,
+      "description": "데모 시연용 일정",
+      "source": "chat",
+      "createdAt": "2026-06-29T13:30:00.000Z",
+      "updatedAt": "2026-06-29T13:30:00.000Z"
+    },
+    {
+      "eventId": "evt_demo_20",
+      "title": "점심 및 이동",
+      "startAt": "2026-07-02T03:30:00.000Z",
+      "endAt": "2026-07-02T04:30:00.000Z",
+      "category": "식사",
+      "attendees": [],
+      "isImportant": false,
+      "isCompleted": false,
+      "description": "데모 시연용 일정",
+      "source": "chat",
+      "createdAt": "2026-06-29T13:30:00.000Z",
+      "updatedAt": "2026-06-29T13:30:00.000Z"
+    },
+    {
+      "eventId": "evt_demo_21",
+      "title": "서비스 QA",
+      "startAt": "2026-07-02T05:00:00.000Z",
+      "endAt": "2026-07-02T07:00:00.000Z",
+      "category": "개발",
+      "attendees": [
+        "지연"
+      ],
+      "isImportant": false,
+      "isCompleted": false,
+      "description": "데모 시연용 일정",
+      "source": "chat",
+      "createdAt": "2026-06-29T13:30:00.000Z",
+      "updatedAt": "2026-06-29T13:30:00.000Z"
+    },
+    {
+      "eventId": "evt_demo_22",
+      "title": "가벼운 산책",
+      "startAt": "2026-07-02T09:30:00.000Z",
+      "endAt": "2026-07-02T10:30:00.000Z",
+      "category": "운동",
+      "attendees": [],
+      "isImportant": false,
+      "isCompleted": false,
+      "description": "데모 시연용 일정",
+      "source": "chat",
+      "createdAt": "2026-06-29T13:30:00.000Z",
+      "updatedAt": "2026-06-29T13:30:00.000Z"
+    },
+    {
+      "eventId": "evt_demo_23",
+      "title": "발표 자료 최종 점검",
+      "startAt": "2026-07-02T23:00:00.000Z",
+      "endAt": "2026-07-03T00:00:00.000Z",
+      "category": "발표",
+      "attendees": [],
+      "isImportant": true,
+      "isCompleted": false,
+      "description": "데모 시연용 일정",
+      "source": "chat",
+      "createdAt": "2026-06-29T13:30:00.000Z",
+      "updatedAt": "2026-06-29T13:30:00.000Z"
+    },
+    {
+      "eventId": "evt_demo_24",
+      "title": "캡스톤 발표 리허설",
+      "startAt": "2026-07-03T01:00:00.000Z",
+      "endAt": "2026-07-03T03:00:00.000Z",
+      "category": "발표",
+      "location": "강의실 B101",
+      "attendees": [
+        "팀원"
+      ],
+      "isImportant": true,
+      "isCompleted": false,
+      "description": "데모 시연용 일정",
+      "source": "chat",
+      "createdAt": "2026-06-29T13:30:00.000Z",
+      "updatedAt": "2026-06-29T13:30:00.000Z"
+    },
+    {
+      "eventId": "evt_demo_25",
+      "title": "교수님 면담",
+      "startAt": "2026-07-03T05:00:00.000Z",
+      "endAt": "2026-07-03T06:00:00.000Z",
+      "category": "면담",
+      "location": "교수 연구실",
+      "attendees": [],
+      "isImportant": true,
+      "isCompleted": false,
+      "description": "데모 시연용 일정",
+      "source": "chat",
+      "createdAt": "2026-06-29T13:30:00.000Z",
+      "updatedAt": "2026-06-29T13:30:00.000Z"
+    },
+    {
+      "eventId": "evt_demo_26",
+      "title": "휴식 및 정리",
+      "startAt": "2026-07-03T07:00:00.000Z",
+      "endAt": "2026-07-03T08:00:00.000Z",
+      "category": "휴식",
+      "attendees": [],
+      "isImportant": false,
+      "isCompleted": false,
+      "description": "데모 시연용 일정",
+      "source": "chat",
+      "createdAt": "2026-06-29T13:30:00.000Z",
+      "updatedAt": "2026-06-29T13:30:00.000Z"
+    },
+    {
+      "eventId": "evt_demo_27",
+      "title": "영어 듣기 루틴",
+      "startAt": "2026-07-03T11:00:00.000Z",
+      "endAt": "2026-07-03T12:00:00.000Z",
+      "category": "공부",
+      "attendees": [],
+      "isImportant": false,
+      "isCompleted": false,
+      "description": "데모 시연용 일정",
+      "source": "chat",
+      "createdAt": "2026-06-29T13:30:00.000Z",
+      "updatedAt": "2026-06-29T13:30:00.000Z"
+    },
+    {
+      "eventId": "evt_demo_28",
+      "title": "주간 회고",
+      "startAt": "2026-07-04T00:00:00.000Z",
+      "endAt": "2026-07-04T01:00:00.000Z",
+      "category": "회고",
+      "attendees": [],
+      "isImportant": false,
+      "isCompleted": false,
+      "description": "데모 시연용 일정",
+      "source": "chat",
+      "createdAt": "2026-06-29T13:30:00.000Z",
+      "updatedAt": "2026-06-29T13:30:00.000Z"
+    },
+    {
+      "eventId": "evt_demo_29",
+      "title": "가족 점심",
+      "startAt": "2026-07-04T02:00:00.000Z",
+      "endAt": "2026-07-04T04:00:00.000Z",
+      "category": "약속",
+      "location": "잠실",
+      "attendees": [],
+      "isImportant": false,
+      "isCompleted": false,
+      "description": "데모 시연용 일정",
+      "source": "chat",
+      "createdAt": "2026-06-29T13:30:00.000Z",
+      "updatedAt": "2026-06-29T13:30:00.000Z"
+    },
+    {
+      "eventId": "evt_demo_30",
+      "title": "포트폴리오 정리",
+      "startAt": "2026-07-04T06:00:00.000Z",
+      "endAt": "2026-07-04T08:00:00.000Z",
+      "category": "자기개발",
+      "attendees": [],
+      "isImportant": true,
+      "isCompleted": false,
+      "description": "데모 시연용 일정",
+      "source": "chat",
+      "createdAt": "2026-06-29T13:30:00.000Z",
+      "updatedAt": "2026-06-29T13:30:00.000Z"
+    },
+    {
+      "eventId": "evt_demo_31",
+      "title": "가벼운 러닝",
+      "startAt": "2026-07-04T10:00:00.000Z",
+      "endAt": "2026-07-04T11:00:00.000Z",
+      "category": "운동",
+      "attendees": [],
+      "isImportant": false,
+      "isCompleted": false,
+      "description": "데모 시연용 일정",
+      "source": "chat",
+      "createdAt": "2026-06-29T13:30:00.000Z",
+      "updatedAt": "2026-06-29T13:30:00.000Z"
+    },
+    {
+      "eventId": "evt_demo_32",
+      "title": "다음 주 일정 설계",
+      "startAt": "2026-07-05T01:00:00.000Z",
+      "endAt": "2026-07-05T02:00:00.000Z",
+      "category": "계획",
+      "attendees": [],
+      "isImportant": false,
+      "isCompleted": false,
+      "description": "데모 시연용 일정",
+      "source": "chat",
+      "createdAt": "2026-06-29T13:30:00.000Z",
+      "updatedAt": "2026-06-29T13:30:00.000Z"
+    },
+    {
+      "eventId": "evt_demo_33",
+      "title": "자격증 모의고사",
+      "startAt": "2026-07-05T05:00:00.000Z",
+      "endAt": "2026-07-05T07:00:00.000Z",
+      "category": "자격증",
+      "attendees": [],
+      "isImportant": true,
+      "isCompleted": false,
+      "description": "데모 시연용 일정",
+      "source": "chat",
+      "createdAt": "2026-06-29T13:30:00.000Z",
+      "updatedAt": "2026-06-29T13:30:00.000Z"
+    },
+    {
+      "eventId": "evt_demo_34",
+      "title": "오늘의 톡톡 운세 피드백",
+      "startAt": "2026-07-05T11:00:00.000Z",
+      "endAt": "2026-07-05T11:30:00.000Z",
+      "category": "회고",
+      "attendees": [],
+      "isImportant": false,
+      "isCompleted": false,
+      "description": "데모 시연용 일정",
+      "source": "chat",
+      "createdAt": "2026-06-29T13:30:00.000Z",
+      "updatedAt": "2026-06-29T13:30:00.000Z"
+    }
+  ],
+  "candidates": [
+    {
+      "candidateId": "cand_demo_01",
+      "source": "gmail",
+      "sourceDetail": "professor@example.edu",
+      "title": "캡스톤 발표 리허설",
+      "date": "2026-07-03",
+      "startAt": "2026-07-03T01:00:00.000Z",
+      "endAt": "2026-07-03T03:00:00.000Z",
+      "location": "강의실 B101",
+      "attendees": [
+        "팀원"
+      ],
+      "confidence": 0.93,
+      "status": "confirmed",
+      "conflictEventIds": [],
+      "alternatives": [],
+      "createdCalendarEventId": "evt_demo_24",
+      "snippet": "금요일 10시에 발표 리허설을 진행합니다.",
+      "createdAt": "2026-06-29T13:30:00.000Z",
+      "updatedAt": "2026-06-29T13:30:00.000Z"
+    },
+    {
+      "candidateId": "cand_demo_02",
+      "source": "slack",
+      "sourceDetail": "#capstone",
+      "title": "서비스 QA",
+      "date": "2026-07-02",
+      "startAt": "2026-07-02T05:00:00.000Z",
+      "endAt": "2026-07-02T07:00:00.000Z",
+      "attendees": [
+        "지연"
+      ],
+      "confidence": 0.88,
+      "status": "confirmed",
+      "conflictEventIds": [],
+      "alternatives": [],
+      "createdCalendarEventId": "evt_demo_21",
+      "snippet": "목요일 오후 2시에 QA 같이 보죠.",
+      "createdAt": "2026-06-29T13:30:00.000Z",
+      "updatedAt": "2026-06-29T13:30:00.000Z"
+    }
+  ],
+  "confirmations": [
+    {
+      "confirmationRequestId": "conf_demo_01",
+      "targetType": "time_usage_plan",
+      "targetId": "2026-06-29",
+      "action": "create",
+      "message": "08:00 ~ 08:30에 \"목표 관련 집중 30분\" 일정을 추가할까요?",
+      "payload": {
+        "sourceDate": "2026-06-29",
+        "calendarPayload": {
+          "title": "목표 관련 집중 30분",
+          "startAt": "2026-06-29T23:00:00.000Z",
+          "endAt": "2026-06-29T23:30:00.000Z",
+          "description": "오늘 목표 관련 시간이 부족했고, 내일 캘린더의 실제 빈 시간을 확인했습니다."
+        }
+      },
+      "status": "pending",
+      "createdAt": "2026-06-29T13:30:00.000Z"
+    },
+    {
+      "confirmationRequestId": "conf_demo_02",
+      "targetType": "time_usage_plan",
+      "targetId": "2026-06-29",
+      "action": "create",
+      "message": "14:20 ~ 14:40에 \"발표 리허설 준비 20분\" 일정을 추가할까요?",
+      "payload": {
+        "sourceDate": "2026-06-29",
+        "calendarPayload": {
+          "title": "발표 리허설 준비 20분",
+          "startAt": "2026-06-30T05:20:00.000Z",
+          "endAt": "2026-06-30T05:40:00.000Z",
+          "description": "금요일 발표 리허설 D-Day가 가까워 준비 시간이 필요합니다."
+        }
+      },
+      "status": "pending",
+      "createdAt": "2026-06-29T13:30:00.000Z"
+    },
+    {
+      "confirmationRequestId": "conf_demo_03",
+      "targetType": "time_usage_plan",
+      "targetId": "2026-06-29",
+      "action": "create",
+      "message": "21:00 ~ 21:30에 \"저녁 SNS 제한 미션\" 일정을 추가할까요?",
+      "payload": {
+        "sourceDate": "2026-06-29",
+        "calendarPayload": {
+          "title": "저녁 SNS 제한 미션",
+          "startAt": "2026-06-30T12:00:00.000Z",
+          "endAt": "2026-06-30T12:30:00.000Z",
+          "description": "오늘 저녁 SNS 시간이 길어져 대체 루틴을 제안합니다."
+        }
+      },
+      "status": "pending",
+      "createdAt": "2026-06-29T13:30:00.000Z"
+    }
+  ],
+  "connectedAccounts": [
+    {
+      "connectedAccountId": "acc_demo_01",
+      "provider": "google",
+      "providerAccountId": "demo-google-calendar",
+      "label": "Google Calendar 데모 연결",
+      "scopes": [
+        "calendar.events"
+      ],
+      "status": "active",
+      "createdAt": "2026-06-29T13:30:00.000Z",
+      "updatedAt": "2026-06-29T13:30:00.000Z"
+    },
+    {
+      "connectedAccountId": "acc_demo_02",
+      "provider": "slack",
+      "providerAccountId": "demo-slack",
+      "label": "Slack 데모 워크스페이스",
+      "scopes": [
+        "channels:history",
+        "chat:write"
+      ],
+      "status": "active",
+      "createdAt": "2026-06-29T13:30:00.000Z",
+      "updatedAt": "2026-06-29T13:30:00.000Z"
+    }
+  ],
+  "meetingNotes": [
+    {
+      "meetingNoteId": "meet_demo_01",
+      "title": "캡스톤 회의",
+      "transcript": "민수는 캘린더 화면을 담당하고 지연은 AI 요약 API를 연결하기로 했다. 금요일 전까지 발표 리허설 자료를 완성하기로 했다.",
+      "summary": "캘린더 화면과 AI 요약 API 역할을 나누고 발표 리허설 준비 일정을 정했습니다.",
+      "discussions": [
+        "Agent 상태를 과하게 노출하지 않고 기능 안에서 자연스럽게 보여주기",
+        "데모 데이터로 전체 기능 시연 준비"
+      ],
+      "decisions": [
+        "금요일 발표 리허설 전까지 주요 화면을 완성한다."
+      ],
+      "risks": [
+        "자연어 일정 파싱이 애매한 문장에서는 추가 질문이 필요하다."
+      ],
+      "actionItems": [],
+      "createdAt": "2026-06-29T13:30:00.000Z",
+      "updatedAt": "2026-06-29T13:30:00.000Z"
+    }
+  ],
+  "actionItems": [
+    {
+      "actionItemId": "act_demo_01",
+      "meetingNoteId": "meet_demo_01",
+      "assignee": "민수",
+      "task": "캘린더 화면 최종 점검",
+      "dueAt": "2026-07-03T00:00:00.000Z",
+      "status": "open",
+      "calendarNeeded": true,
+      "scheduleCandidateId": "cand_demo_01",
+      "createdAt": "2026-06-29T13:30:00.000Z",
+      "updatedAt": "2026-06-29T13:30:00.000Z"
+    }
+  ],
+  "dailyReviews": [
+    {
+      "dailyReviewId": "review_demo_01",
+      "reviewDate": "2026-06-23",
+      "summary": "월요일은 루틴을 다시 시작한 날입니다. 빈 시간 기록과 완료 체크를 바탕으로 내일 계획을 조정했습니다.",
+      "completedItems": [
+        "Grammar in Use",
+        "운동"
+      ],
+      "incompleteItems": [],
+      "timeAnalysis": [
+        "목표 관련 시간 1시간 이상 확보",
+        "저녁 SNS 시간 관리 필요"
+      ],
+      "importedEvents": [
+        "Slack 팀 회의 후보"
+      ],
+      "strengths": [
+        "하루를 기록으로 남긴 점이 좋습니다."
+      ],
+      "improvements": [
+        "중요 일정 전 준비 시간을 10분 확보해보세요."
+      ],
+      "growthPoints": [
+        "완료 체크와 빈 시간 기록이 다음 추천 정확도를 높였습니다."
+      ],
+      "tomorrowPriorities": [
+        "목표 관련 집중 30분",
+        "캡스톤 회의 준비",
+        "저녁 운동"
+      ],
+      "fortuneFeedback": "normal",
+      "createdAt": "2026-06-29T13:30:00.000Z"
+    },
+    {
+      "dailyReviewId": "review_demo_02",
+      "reviewDate": "2026-06-24",
+      "summary": "화요일은 공부와 프로젝트 균형이 좋았습니다. 빈 시간 기록과 완료 체크를 바탕으로 내일 계획을 조정했습니다.",
+      "completedItems": [
+        "Grammar in Use",
+        "운동",
+        "BBC 6 Minute English"
+      ],
+      "incompleteItems": [
+        "산업안전기사 기출 풀이"
+      ],
+      "timeAnalysis": [
+        "목표 관련 시간 1시간 이상 확보",
+        "저녁 SNS 시간 관리 필요"
+      ],
+      "importedEvents": [],
+      "strengths": [
+        "하루를 기록으로 남긴 점이 좋습니다."
+      ],
+      "improvements": [
+        "중요 일정 전 준비 시간을 10분 확보해보세요."
+      ],
+      "growthPoints": [
+        "완료 체크와 빈 시간 기록이 다음 추천 정확도를 높였습니다."
+      ],
+      "tomorrowPriorities": [
+        "목표 관련 집중 30분",
+        "캡스톤 회의 준비",
+        "저녁 운동"
+      ],
+      "fortuneFeedback": "helpful",
+      "createdAt": "2026-06-29T13:30:00.000Z"
+    },
+    {
+      "dailyReviewId": "review_demo_03",
+      "reviewDate": "2026-06-25",
+      "summary": "수요일은 이동 시간이 길었지만 기록을 남겼습니다. 빈 시간 기록과 완료 체크를 바탕으로 내일 계획을 조정했습니다.",
+      "completedItems": [
+        "Grammar in Use"
+      ],
+      "incompleteItems": [],
+      "timeAnalysis": [
+        "목표 관련 시간 1시간 이상 확보",
+        "저녁 SNS 시간 관리 필요"
+      ],
+      "importedEvents": [
+        "Slack 팀 회의 후보"
+      ],
+      "strengths": [
+        "하루를 기록으로 남긴 점이 좋습니다."
+      ],
+      "improvements": [
+        "중요 일정 전 준비 시간을 10분 확보해보세요."
+      ],
+      "growthPoints": [
+        "완료 체크와 빈 시간 기록이 다음 추천 정확도를 높였습니다."
+      ],
+      "tomorrowPriorities": [
+        "목표 관련 집중 30분",
+        "캡스톤 회의 준비",
+        "저녁 운동"
+      ],
+      "fortuneFeedback": "normal",
+      "createdAt": "2026-06-29T13:30:00.000Z"
+    },
+    {
+      "dailyReviewId": "review_demo_04",
+      "reviewDate": "2026-06-26",
+      "summary": "목요일은 발표 준비에 집중했습니다. 빈 시간 기록과 완료 체크를 바탕으로 내일 계획을 조정했습니다.",
+      "completedItems": [
+        "Grammar in Use",
+        "운동"
+      ],
+      "incompleteItems": [
+        "산업안전기사 기출 풀이"
+      ],
+      "timeAnalysis": [
+        "목표 관련 시간 1시간 이상 확보",
+        "저녁 SNS 시간 관리 필요"
+      ],
+      "importedEvents": [],
+      "strengths": [
+        "하루를 기록으로 남긴 점이 좋습니다."
+      ],
+      "improvements": [
+        "중요 일정 전 준비 시간을 10분 확보해보세요."
+      ],
+      "growthPoints": [
+        "완료 체크와 빈 시간 기록이 다음 추천 정확도를 높였습니다."
+      ],
+      "tomorrowPriorities": [
+        "목표 관련 집중 30분",
+        "캡스톤 회의 준비",
+        "저녁 운동"
+      ],
+      "fortuneFeedback": "helpful",
+      "createdAt": "2026-06-29T13:30:00.000Z"
+    },
+    {
+      "dailyReviewId": "review_demo_05",
+      "reviewDate": "2026-06-27",
+      "summary": "금요일은 운동과 회고를 모두 완료했습니다. 빈 시간 기록과 완료 체크를 바탕으로 내일 계획을 조정했습니다.",
+      "completedItems": [
+        "Grammar in Use",
+        "운동",
+        "BBC 6 Minute English"
+      ],
+      "incompleteItems": [],
+      "timeAnalysis": [
+        "목표 관련 시간 1시간 이상 확보",
+        "저녁 SNS 시간 관리 필요"
+      ],
+      "importedEvents": [
+        "Slack 팀 회의 후보"
+      ],
+      "strengths": [
+        "하루를 기록으로 남긴 점이 좋습니다."
+      ],
+      "improvements": [
+        "중요 일정 전 준비 시간을 10분 확보해보세요."
+      ],
+      "growthPoints": [
+        "완료 체크와 빈 시간 기록이 다음 추천 정확도를 높였습니다."
+      ],
+      "tomorrowPriorities": [
+        "목표 관련 집중 30분",
+        "캡스톤 회의 준비",
+        "저녁 운동"
+      ],
+      "fortuneFeedback": "normal",
+      "createdAt": "2026-06-29T13:30:00.000Z"
+    },
+    {
+      "dailyReviewId": "review_demo_06",
+      "reviewDate": "2026-06-28",
+      "summary": "일요일은 다음 주를 준비했습니다. 빈 시간 기록과 완료 체크를 바탕으로 내일 계획을 조정했습니다.",
+      "completedItems": [
+        "Grammar in Use"
+      ],
+      "incompleteItems": [
+        "산업안전기사 기출 풀이"
+      ],
+      "timeAnalysis": [
+        "목표 관련 시간 1시간 이상 확보",
+        "저녁 SNS 시간 관리 필요"
+      ],
+      "importedEvents": [],
+      "strengths": [
+        "하루를 기록으로 남긴 점이 좋습니다."
+      ],
+      "improvements": [
+        "중요 일정 전 준비 시간을 10분 확보해보세요."
+      ],
+      "growthPoints": [
+        "완료 체크와 빈 시간 기록이 다음 추천 정확도를 높였습니다."
+      ],
+      "tomorrowPriorities": [
+        "목표 관련 집중 30분",
+        "캡스톤 회의 준비",
+        "저녁 운동"
+      ],
+      "fortuneFeedback": "helpful",
+      "createdAt": "2026-06-29T13:30:00.000Z"
+    },
+    {
+      "dailyReviewId": "review_demo_07",
+      "reviewDate": "2026-06-29",
+      "summary": "오늘은 목표 시간과 휴식 시간을 함께 점검했습니다. 빈 시간 기록과 완료 체크를 바탕으로 내일 계획을 조정했습니다.",
+      "completedItems": [
+        "Grammar in Use",
+        "운동"
+      ],
+      "incompleteItems": [],
+      "timeAnalysis": [
+        "목표 관련 시간 1시간 이상 확보",
+        "저녁 SNS 시간 관리 필요"
+      ],
+      "importedEvents": [
+        "Slack 팀 회의 후보"
+      ],
+      "strengths": [
+        "하루를 기록으로 남긴 점이 좋습니다."
+      ],
+      "improvements": [
+        "중요 일정 전 준비 시간을 10분 확보해보세요."
+      ],
+      "growthPoints": [
+        "완료 체크와 빈 시간 기록이 다음 추천 정확도를 높였습니다."
+      ],
+      "tomorrowPriorities": [
+        "목표 관련 집중 30분",
+        "캡스톤 회의 준비",
+        "저녁 운동"
+      ],
+      "fortuneFeedback": "normal",
+      "createdAt": "2026-06-29T13:30:00.000Z"
+    }
+  ],
+  "dailyFortunes": [
+    {
+      "id": "fortune_demo_01",
+      "userId": "local-user",
+      "fortuneDate": "2026-06-29",
+      "summary": "오늘은 학습과 협업의 균형을 잘 잡으면 좋은 흐름이 생기는 날이에요.",
+      "recommendedAction": "오전 학습 루틴을 먼저 끝내고, 캡스톤 회의 전에는 확인할 질문 1가지를 적어보세요.",
+      "caution": "저녁 일정 뒤에는 SNS 시간이 길어질 수 있으니 하루 회고를 먼저 남겨보세요.",
+      "luckyCategory": "공부 / 프로젝트",
+      "mission": "중요 일정 하나를 별표로 표시하고, 끝난 뒤 한 줄 메모를 남겨보세요.",
+      "aiFortuneText": "# 오늘의 톡톡 운세\n\n## 전체 흐름\n오늘은 학습과 협업이 모두 중요한 하루입니다. 오전 루틴으로 흐름을 만들고, 캡스톤 회의에서는 의견을 짧고 명확하게 전달해보세요.\n\n## 오전\nGrammar in Use를 먼저 끝내면 하루의 리듬이 안정됩니다.\n\n## 오후\n캡스톤 회의와 영어 루틴 사이에 짧은 정리 시간을 남겨두세요.\n\n## 저녁\n저녁 약속 뒤에는 산업안전기사 기출 풀이를 짧게라도 확인하면 좋습니다.",
+      "morning": "오전 루틴을 먼저 완료해 하루 속도를 잡아보세요.",
+      "afternoon": "회의 전후 10분 정리 시간을 남겨두세요.",
+      "evening": "저녁에는 SNS보다 짧은 회고를 먼저 해보세요.",
+      "scheduleComments": [
+        {
+          "eventId": "evt_demo_01",
+          "title": "Grammar in Use",
+          "comment": "하루 집중력을 여는 루틴입니다."
+        },
+        {
+          "eventId": "evt_demo_02",
+          "title": "캡스톤 회의",
+          "comment": "핵심 질문 1가지를 준비하면 회의 밀도가 올라갑니다."
+        },
+        {
+          "eventId": "evt_demo_06",
+          "title": "산업안전기사 기출 풀이",
+          "comment": "짧게라도 확인하면 목표 흐름이 끊기지 않습니다."
+        }
+      ],
+      "userFeedback": "helpful",
+      "createdAt": "2026-06-29T13:30:00.000Z"
+    }
+  ],
+  "timeGaps": [
+    {
+      "id": "gap_demo_01",
+      "userId": "local-user",
+      "date": "2026-06-29",
+      "startTime": "2026-06-28T23:00:00.000Z",
+      "endTime": "2026-06-29T01:00:00.000Z",
+      "durationMinutes": 120,
+      "category": "moving",
+      "memo": "등교 및 회의실 이동, 발표 자료 확인",
+      "isRecorded": true,
+      "createdAt": "2026-06-29T13:30:00.000Z",
+      "updatedAt": "2026-06-29T13:30:00.000Z"
+    },
+    {
+      "id": "gap_demo_02",
+      "userId": "local-user",
+      "date": "2026-06-29",
+      "startTime": "2026-06-29T03:00:00.000Z",
+      "endTime": "2026-06-29T04:00:00.000Z",
+      "durationMinutes": 60,
+      "category": "meal",
+      "memo": "점심 식사와 팀원과 짧은 대화",
+      "isRecorded": true,
+      "createdAt": "2026-06-29T13:30:00.000Z",
+      "updatedAt": "2026-06-29T13:30:00.000Z"
+    },
+    {
+      "id": "gap_demo_03",
+      "userId": "local-user",
+      "date": "2026-06-29",
+      "startTime": "2026-06-29T05:00:00.000Z",
+      "endTime": "2026-06-29T06:00:00.000Z",
+      "durationMinutes": 60,
+      "category": "rest",
+      "memo": "커피 마시며 휴식",
+      "isRecorded": true,
+      "createdAt": "2026-06-29T13:30:00.000Z",
+      "updatedAt": "2026-06-29T13:30:00.000Z"
+    },
+    {
+      "id": "gap_demo_04",
+      "userId": "local-user",
+      "date": "2026-06-29",
+      "startTime": "2026-06-29T07:00:00.000Z",
+      "endTime": "2026-06-29T10:00:00.000Z",
+      "durationMinutes": 180,
+      "category": "friends",
+      "memo": "친구와 이동 및 저녁 전 대화",
+      "isRecorded": true,
+      "createdAt": "2026-06-29T13:30:00.000Z",
+      "updatedAt": "2026-06-29T13:30:00.000Z"
+    },
+    {
+      "id": "gap_demo_05",
+      "userId": "local-user",
+      "date": "2026-06-29",
+      "startTime": "2026-06-29T12:30:00.000Z",
+      "endTime": "2026-06-29T14:00:00.000Z",
+      "durationMinutes": 90,
+      "category": "sns_video",
+      "memo": "유튜브와 SNS를 조금 오래 봄",
+      "isRecorded": true,
+      "createdAt": "2026-06-29T13:30:00.000Z",
+      "updatedAt": "2026-06-29T13:30:00.000Z"
+    }
+  ],
+  "timeUsageSummaries": [
+    {
+      "id": "usage_demo_01",
+      "userId": "local-user",
+      "date": "2026-06-23",
+      "totalScheduleMinutes": 360,
+      "completedScheduleMinutes": 270,
+      "incompleteScheduleMinutes": 90,
+      "totalGapMinutes": 600,
+      "recordedGapMinutes": 480,
+      "unrecordedGapMinutes": 120,
+      "movingMinutes": 90,
+      "mealMinutes": 90,
+      "restMinutes": 80,
+      "selfDevelopmentMinutes": 30,
+      "studyMinutes": 90,
+      "exerciseMinutes": 60,
+      "snsVideoMinutes": 80,
+      "waitingMinutes": 30,
+      "etcMinutes": 40,
+      "timeUsageScore": 72,
+      "aiFeedback": "오늘의 시간 사용 점수는 72점입니다. 일정 수행은 안정적이었고, 빈 시간 기록을 바탕으로 내일 계획을 더 구체화할 수 있습니다.",
+      "wasteRiskSegments": [
+        "21:30 ~ 22:40 SNS/영상 시청 1시간 10분"
+      ],
+      "strengths": [
+        "오전 학습 루틴을 완료했습니다.",
+        "운동 일정을 캘린더에 남겨 하루 균형을 확인할 수 있었습니다."
+      ],
+      "improvements": [
+        "저녁 SNS 시간이 길어질 수 있어 짧은 대체 루틴이 필요합니다."
+      ],
+      "tomorrowActions": [
+        "내일 실제 빈 시간에 목표 관련 집중 30분을 배치해보세요.",
+        "저녁에는 30분 SNS 제한 미션을 시도해보세요."
+      ],
+      "tomorrowPlan": {
+        "morning": "아침 영어 루틴 후 10분 복습을 이어가보세요.",
+        "afternoon": "회의 전후로 15분 정리 시간을 남겨두세요.",
+        "evening": "운동 뒤에는 SNS 대신 짧은 회고를 남겨보세요."
+      },
+      "confirmationRequestIds": [],
+      "createdAt": "2026-06-29T13:30:00.000Z"
+    },
+    {
+      "id": "usage_demo_02",
+      "userId": "local-user",
+      "date": "2026-06-24",
+      "totalScheduleMinutes": 360,
+      "completedScheduleMinutes": 270,
+      "incompleteScheduleMinutes": 90,
+      "totalGapMinutes": 600,
+      "recordedGapMinutes": 480,
+      "unrecordedGapMinutes": 120,
+      "movingMinutes": 90,
+      "mealMinutes": 90,
+      "restMinutes": 80,
+      "selfDevelopmentMinutes": 30,
+      "studyMinutes": 90,
+      "exerciseMinutes": 60,
+      "snsVideoMinutes": 80,
+      "waitingMinutes": 30,
+      "etcMinutes": 40,
+      "timeUsageScore": 78,
+      "aiFeedback": "오늘의 시간 사용 점수는 78점입니다. 일정 수행은 안정적이었고, 빈 시간 기록을 바탕으로 내일 계획을 더 구체화할 수 있습니다.",
+      "wasteRiskSegments": [
+        "21:30 ~ 22:40 SNS/영상 시청 1시간 10분"
+      ],
+      "strengths": [
+        "오전 학습 루틴을 완료했습니다.",
+        "운동 일정을 캘린더에 남겨 하루 균형을 확인할 수 있었습니다."
+      ],
+      "improvements": [
+        "저녁 SNS 시간이 길어질 수 있어 짧은 대체 루틴이 필요합니다."
+      ],
+      "tomorrowActions": [
+        "내일 실제 빈 시간에 목표 관련 집중 30분을 배치해보세요.",
+        "저녁에는 30분 SNS 제한 미션을 시도해보세요."
+      ],
+      "tomorrowPlan": {
+        "morning": "아침 영어 루틴 후 10분 복습을 이어가보세요.",
+        "afternoon": "회의 전후로 15분 정리 시간을 남겨두세요.",
+        "evening": "운동 뒤에는 SNS 대신 짧은 회고를 남겨보세요."
+      },
+      "confirmationRequestIds": [],
+      "createdAt": "2026-06-29T13:30:00.000Z"
+    },
+    {
+      "id": "usage_demo_03",
+      "userId": "local-user",
+      "date": "2026-06-25",
+      "totalScheduleMinutes": 360,
+      "completedScheduleMinutes": 270,
+      "incompleteScheduleMinutes": 90,
+      "totalGapMinutes": 600,
+      "recordedGapMinutes": 480,
+      "unrecordedGapMinutes": 120,
+      "movingMinutes": 90,
+      "mealMinutes": 90,
+      "restMinutes": 80,
+      "selfDevelopmentMinutes": 30,
+      "studyMinutes": 90,
+      "exerciseMinutes": 60,
+      "snsVideoMinutes": 80,
+      "waitingMinutes": 30,
+      "etcMinutes": 40,
+      "timeUsageScore": 70,
+      "aiFeedback": "오늘의 시간 사용 점수는 70점입니다. 일정 수행은 안정적이었고, 빈 시간 기록을 바탕으로 내일 계획을 더 구체화할 수 있습니다.",
+      "wasteRiskSegments": [
+        "21:30 ~ 22:40 SNS/영상 시청 1시간 10분"
+      ],
+      "strengths": [
+        "오전 학습 루틴을 완료했습니다.",
+        "운동 일정을 캘린더에 남겨 하루 균형을 확인할 수 있었습니다."
+      ],
+      "improvements": [
+        "저녁 SNS 시간이 길어질 수 있어 짧은 대체 루틴이 필요합니다."
+      ],
+      "tomorrowActions": [
+        "내일 실제 빈 시간에 목표 관련 집중 30분을 배치해보세요.",
+        "저녁에는 30분 SNS 제한 미션을 시도해보세요."
+      ],
+      "tomorrowPlan": {
+        "morning": "아침 영어 루틴 후 10분 복습을 이어가보세요.",
+        "afternoon": "회의 전후로 15분 정리 시간을 남겨두세요.",
+        "evening": "운동 뒤에는 SNS 대신 짧은 회고를 남겨보세요."
+      },
+      "confirmationRequestIds": [],
+      "createdAt": "2026-06-29T13:30:00.000Z"
+    },
+    {
+      "id": "usage_demo_04",
+      "userId": "local-user",
+      "date": "2026-06-26",
+      "totalScheduleMinutes": 360,
+      "completedScheduleMinutes": 270,
+      "incompleteScheduleMinutes": 90,
+      "totalGapMinutes": 600,
+      "recordedGapMinutes": 480,
+      "unrecordedGapMinutes": 120,
+      "movingMinutes": 90,
+      "mealMinutes": 90,
+      "restMinutes": 80,
+      "selfDevelopmentMinutes": 30,
+      "studyMinutes": 90,
+      "exerciseMinutes": 60,
+      "snsVideoMinutes": 80,
+      "waitingMinutes": 30,
+      "etcMinutes": 40,
+      "timeUsageScore": 83,
+      "aiFeedback": "오늘의 시간 사용 점수는 83점입니다. 일정 수행은 안정적이었고, 빈 시간 기록을 바탕으로 내일 계획을 더 구체화할 수 있습니다.",
+      "wasteRiskSegments": [
+        "21:30 ~ 22:40 SNS/영상 시청 1시간 10분"
+      ],
+      "strengths": [
+        "오전 학습 루틴을 완료했습니다.",
+        "운동 일정을 캘린더에 남겨 하루 균형을 확인할 수 있었습니다."
+      ],
+      "improvements": [
+        "저녁 SNS 시간이 길어질 수 있어 짧은 대체 루틴이 필요합니다."
+      ],
+      "tomorrowActions": [
+        "내일 실제 빈 시간에 목표 관련 집중 30분을 배치해보세요.",
+        "저녁에는 30분 SNS 제한 미션을 시도해보세요."
+      ],
+      "tomorrowPlan": {
+        "morning": "아침 영어 루틴 후 10분 복습을 이어가보세요.",
+        "afternoon": "회의 전후로 15분 정리 시간을 남겨두세요.",
+        "evening": "운동 뒤에는 SNS 대신 짧은 회고를 남겨보세요."
+      },
+      "confirmationRequestIds": [],
+      "createdAt": "2026-06-29T13:30:00.000Z"
+    },
+    {
+      "id": "usage_demo_05",
+      "userId": "local-user",
+      "date": "2026-06-27",
+      "totalScheduleMinutes": 360,
+      "completedScheduleMinutes": 270,
+      "incompleteScheduleMinutes": 90,
+      "totalGapMinutes": 600,
+      "recordedGapMinutes": 480,
+      "unrecordedGapMinutes": 120,
+      "movingMinutes": 90,
+      "mealMinutes": 90,
+      "restMinutes": 80,
+      "selfDevelopmentMinutes": 30,
+      "studyMinutes": 90,
+      "exerciseMinutes": 60,
+      "snsVideoMinutes": 80,
+      "waitingMinutes": 30,
+      "etcMinutes": 40,
+      "timeUsageScore": 76,
+      "aiFeedback": "오늘의 시간 사용 점수는 76점입니다. 일정 수행은 안정적이었고, 빈 시간 기록을 바탕으로 내일 계획을 더 구체화할 수 있습니다.",
+      "wasteRiskSegments": [
+        "21:30 ~ 22:40 SNS/영상 시청 1시간 10분"
+      ],
+      "strengths": [
+        "오전 학습 루틴을 완료했습니다.",
+        "운동 일정을 캘린더에 남겨 하루 균형을 확인할 수 있었습니다."
+      ],
+      "improvements": [
+        "저녁 SNS 시간이 길어질 수 있어 짧은 대체 루틴이 필요합니다."
+      ],
+      "tomorrowActions": [
+        "내일 실제 빈 시간에 목표 관련 집중 30분을 배치해보세요.",
+        "저녁에는 30분 SNS 제한 미션을 시도해보세요."
+      ],
+      "tomorrowPlan": {
+        "morning": "아침 영어 루틴 후 10분 복습을 이어가보세요.",
+        "afternoon": "회의 전후로 15분 정리 시간을 남겨두세요.",
+        "evening": "운동 뒤에는 SNS 대신 짧은 회고를 남겨보세요."
+      },
+      "confirmationRequestIds": [],
+      "createdAt": "2026-06-29T13:30:00.000Z"
+    },
+    {
+      "id": "usage_demo_06",
+      "userId": "local-user",
+      "date": "2026-06-28",
+      "totalScheduleMinutes": 360,
+      "completedScheduleMinutes": 270,
+      "incompleteScheduleMinutes": 90,
+      "totalGapMinutes": 600,
+      "recordedGapMinutes": 480,
+      "unrecordedGapMinutes": 120,
+      "movingMinutes": 90,
+      "mealMinutes": 90,
+      "restMinutes": 80,
+      "selfDevelopmentMinutes": 30,
+      "studyMinutes": 90,
+      "exerciseMinutes": 60,
+      "snsVideoMinutes": 80,
+      "waitingMinutes": 30,
+      "etcMinutes": 40,
+      "timeUsageScore": 81,
+      "aiFeedback": "오늘의 시간 사용 점수는 81점입니다. 일정 수행은 안정적이었고, 빈 시간 기록을 바탕으로 내일 계획을 더 구체화할 수 있습니다.",
+      "wasteRiskSegments": [
+        "21:30 ~ 22:40 SNS/영상 시청 1시간 10분"
+      ],
+      "strengths": [
+        "오전 학습 루틴을 완료했습니다.",
+        "운동 일정을 캘린더에 남겨 하루 균형을 확인할 수 있었습니다."
+      ],
+      "improvements": [
+        "저녁 SNS 시간이 길어질 수 있어 짧은 대체 루틴이 필요합니다."
+      ],
+      "tomorrowActions": [
+        "내일 실제 빈 시간에 목표 관련 집중 30분을 배치해보세요.",
+        "저녁에는 30분 SNS 제한 미션을 시도해보세요."
+      ],
+      "tomorrowPlan": {
+        "morning": "아침 영어 루틴 후 10분 복습을 이어가보세요.",
+        "afternoon": "회의 전후로 15분 정리 시간을 남겨두세요.",
+        "evening": "운동 뒤에는 SNS 대신 짧은 회고를 남겨보세요."
+      },
+      "confirmationRequestIds": [],
+      "createdAt": "2026-06-29T13:30:00.000Z"
+    },
+    {
+      "id": "usage_demo_07",
+      "userId": "local-user",
+      "date": "2026-06-29",
+      "totalScheduleMinutes": 465,
+      "completedScheduleMinutes": 360,
+      "incompleteScheduleMinutes": 105,
+      "totalGapMinutes": 480,
+      "recordedGapMinutes": 480,
+      "unrecordedGapMinutes": 0,
+      "movingMinutes": 120,
+      "mealMinutes": 60,
+      "restMinutes": 60,
+      "selfDevelopmentMinutes": 0,
+      "studyMinutes": 120,
+      "exerciseMinutes": 60,
+      "snsVideoMinutes": 90,
+      "waitingMinutes": 0,
+      "etcMinutes": 30,
+      "timeUsageScore": 74,
+      "aiFeedback": "오늘의 시간 사용 점수는 74점입니다. 오전 학습과 운동은 좋았고, 저녁 SNS 시간이 길어져 내일은 실제 빈 시간에 목표 관련 집중 시간을 먼저 배치하는 것이 좋습니다.",
+      "wasteRiskSegments": [
+        "21:30 ~ 23:00 SNS/영상 시청 1시간 30분"
+      ],
+      "strengths": [
+        "오전 영어 루틴을 완료했습니다.",
+        "캡스톤 회의 후 메모와 요약을 남겼습니다.",
+        "운동 일정을 완료해 하루 균형을 만들었습니다."
+      ],
+      "improvements": [
+        "저녁 SNS 시간이 길어졌습니다.",
+        "산업안전기사 기출 풀이가 미완료라 내일 빈 시간에 재배치하는 것이 좋습니다."
+      ],
+      "tomorrowActions": [
+        "내일 08:00 ~ 08:30 빈 시간에 목표 관련 집중 30분을 배치해보세요.",
+        "발표 리허설 전 준비 시간을 20분 확보해보세요.",
+        "저녁 SNS 제한 미션을 만들어보세요."
+      ],
+      "tomorrowPlan": {
+        "morning": "08:00 ~ 08:30 목표 관련 집중 시간을 먼저 확보하세요.",
+        "afternoon": "팀 회의 전후 10분 정리 시간을 남겨두세요.",
+        "evening": "운동 후 SNS 제한 미션을 먼저 실행하세요."
+      },
+      "confirmationRequestIds": [
+        "conf_demo_01",
+        "conf_demo_02",
+        "conf_demo_03"
+      ],
+      "createdAt": "2026-06-29T13:30:00.000Z"
+    }
+  ],
+  "userMemory": [
+    {
+      "id": "mem_demo_01",
+      "userId": "local-user",
+      "memoryType": "accepted_suggestion",
+      "memoryContent": "오전 빈 시간에 목표 관련 집중 시간을 배치하는 제안을 승인함",
+      "confidence": 0.82,
+      "sourceDate": "2026-06-28",
+      "createdAt": "2026-06-29T13:30:00.000Z"
+    },
+    {
+      "id": "mem_demo_02",
+      "userId": "local-user",
+      "memoryType": "sns_pattern",
+      "memoryContent": "저녁 21시 이후 SNS/영상 시간이 길어지는 패턴",
+      "confidence": 0.74,
+      "sourceDate": "2026-06-29",
+      "createdAt": "2026-06-29T13:30:00.000Z"
+    },
+    {
+      "id": "mem_demo_03",
+      "userId": "local-user",
+      "memoryType": "moving_pattern",
+      "memoryContent": "월요일 오전 이동 시간이 긴 편",
+      "confidence": 0.67,
+      "sourceDate": "2026-06-29",
+      "createdAt": "2026-06-29T13:30:00.000Z"
+    },
+    {
+      "id": "mem_demo_04",
+      "userId": "local-user",
+      "memoryType": "goal_shortage",
+      "memoryContent": "자격증 공부 시간이 부족한 날에는 다음 날 오전 빈 시간 제안이 효과적",
+      "confidence": 0.71,
+      "sourceDate": "2026-06-29",
+      "createdAt": "2026-06-29T13:30:00.000Z"
+    }
+  ],
+  "preferences": {
+    "userId": "local-user",
+    "onboardingCompleted": true,
+    "nickname": "민수",
+    "birthDate": "2001-03-15",
+    "birthCalendarType": "solar",
+    "birthTime": "",
+    "birthTimeUnknown": true,
+    "dayStartTime": "07:00",
+    "dayEndTime": "23:00",
+    "fortuneEnabled": true,
+    "shortTermGoal": "캡스톤 발표 시연 완성",
+    "longTermGoal": "AI Agent 서비스 기획자로 성장하기",
+    "goalCategory": "공부",
+    "timezone": "Asia/Seoul",
+    "defaultEventDurationMinutes": 60,
+    "workingHours": {
+      "start": "09:00",
+      "end": "18:00"
+    },
+    "focusBlocks": [
+      {
+        "day": "weekday",
+        "start": "07:00",
+        "end": "09:00"
+      },
+      {
+        "day": "weekday",
+        "start": "20:00",
+        "end": "21:30"
+      }
+    ],
+    "notificationChannels": {
+      "inApp": true,
+      "email": false,
+      "slack": false
+    },
+    "autoScanGmail": true,
+    "autoScanSlack": true,
+    "watchedSlackChannels": [
+      "#capstone",
+      "#schedule"
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+services:
+  - type: web
+    name: harutoktok-agent
+    env: docker
+    plan: free
+    autoDeploy: true
+    healthCheckPath: /api/health
+    disk:
+      name: harutoktok-data
+      mountPath: /var/data
+      sizeGB: 1
+    envVars:
+      - key: NODE_ENV
+        value: production
+      - key: HARUTOKTOK_STORE_DIR
+        value: /var/data
+      - key: HARUTOKTOK_SEED_DEMO
+        value: "true"
