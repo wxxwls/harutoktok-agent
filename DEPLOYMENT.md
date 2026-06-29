@@ -2,7 +2,9 @@
 
 ## 권장 배포 방식
 
-현재 하루톡톡은 로컬 JSON 저장소를 사용합니다. 배포 후에도 일정, Agent 기억, 승인 작업, 하루 성장 보고서가 유지되어야 하므로 Render의 영구 디스크 배포를 권장합니다.
+현재 하루톡톡은 로컬 JSON 저장소를 사용합니다. 과제 제출용 무료 배포에서는 Render Free 플랜의 `/tmp/harutoktok-data`에 데모데이터를 자동 생성하도록 설정합니다.
+
+주의: Render Free 플랜의 `/tmp` 저장소는 서비스 재시작 시 초기화될 수 있습니다. 제출 시연용 데모데이터는 첫 실행 때 다시 생성되지만, 실제 운영 서비스로 확장할 때는 Supabase/Postgres 같은 외부 DB로 교체하는 것이 좋습니다.
 
 ## Render 배포 순서
 
@@ -24,9 +26,9 @@
 
 ## 배포 환경변수
 
-`render.yaml`에 기본값이 포함되어 있습니다.
+`render.yaml`에 무료 배포용 기본값이 포함되어 있습니다.
 
-- `HARUTOKTOK_STORE_DIR=/var/data`
+- `HARUTOKTOK_STORE_DIR=/tmp/harutoktok-data`
 - `HARUTOKTOK_SEED_DEMO=true`
 
 `HARUTOKTOK_SEED_DEMO`는 첫 배포 시 데모데이터를 자동으로 넣기 위한 값입니다. 이미 데이터가 생성된 뒤에는 기존 저장 파일을 유지합니다.
