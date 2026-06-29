@@ -1,6 +1,6 @@
 import { store } from "@/lib/store";
 import { getAgentRuntime } from "@/lib/agent-runtime";
-import { Dashboard } from "./dashboard";
+import { ClientDashboard } from "./client-dashboard";
 
 export const dynamic = "force-dynamic";
 
@@ -20,5 +20,5 @@ export default function Home() {
     preferences: snapshot.preferences
   };
 
-  return <Dashboard initialState={initialState} />;
+  return <ClientDashboard initialState={initialState} />;
 }
